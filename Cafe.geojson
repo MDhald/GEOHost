@@ -1,0 +1,6185 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-03T20:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/266903739",
+      "properties": {
+        "@id": "node/266903739",
+        "amenity": "cafe",
+        "created_by": "JOSM",
+        "name": "Progressive Grounds Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409512,
+          37.757467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293573360",
+      "properties": {
+        "@id": "node/293573360",
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4339295,
+          37.7900864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293573361",
+      "properties": {
+        "@id": "node/293573361",
+        "amenity": "cafe",
+        "name": "Tully's Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4346231,
+          37.7923504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/317124812",
+      "properties": {
+        "@id": "node/317124812",
+        "amenity": "cafe",
+        "name": "Brickhouse Cafe and Bar",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3951729,
+          37.7795947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/317124819",
+      "properties": {
+        "@id": "node/317124819",
+        "addr:housenumber": "648",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "inside_atm": "yes",
+        "name": "6 Flavor Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395975,
+          37.777725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331389010",
+      "properties": {
+        "@id": "node/331389010",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "601",
+        "addr:street": "Vallejo Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Caffe Trieste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4073519,
+          37.7986305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332730973",
+      "properties": {
+        "@id": "node/332730973",
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4532459,
+          37.786357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332730980",
+      "properties": {
+        "@id": "node/332730980",
+        "amenity": "cafe",
+        "name": "Jamba Juice",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4515258,
+          37.7867549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332730993",
+      "properties": {
+        "@id": "node/332730993",
+        "amenity": "cafe",
+        "name": "Pete's Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4505031,
+          37.7867336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332787288",
+      "properties": {
+        "@id": "node/332787288",
+        "amenity": "cafe",
+        "name": "Eunice's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4475377,
+          37.7880547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332787308",
+      "properties": {
+        "@id": "node/332787308",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3872",
+        "addr:postcode": "94118",
+        "addr:street": "Sacramento Street",
+        "amenity": "cafe",
+        "internet_access": "no",
+        "name": "Picnix Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4563869,
+          37.7870938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/335444374",
+      "properties": {
+        "@id": "node/335444374",
+        "amenity": "cafe",
+        "name": "Coffee Bean & Tea Leaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4024914,
+          37.7908808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/346585657",
+      "properties": {
+        "@id": "node/346585657",
+        "addr:housenumber": "66",
+        "addr:street": "Mint Street",
+        "amenity": "cafe",
+        "name": "Blue Bottle Cafe",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-16:00",
+        "phone": "510-653-3394",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4077562,
+          37.7824703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/351963628",
+      "properties": {
+        "@id": "node/351963628",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "700",
+        "addr:state": "CA",
+        "addr:street": "Geary Street",
+        "amenity": "cafe",
+        "name": "Angel Cafe & Deli",
+        "phone": "+1 415 931 3467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414982,
+          37.7866169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360450263",
+      "properties": {
+        "@id": "node/360450263",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Philz Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4383271,
+          37.7511207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360463846",
+      "properties": {
+        "@id": "node/360463846",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1399",
+        "addr:street": "Church Street",
+        "amenity": "cafe",
+        "name": "Chloe's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4269982,
+          37.7485992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360464463",
+      "properties": {
+        "@id": "node/360464463",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1351",
+        "addr:street": "Church Street",
+        "amenity": "cafe",
+        "name": "Lovejoy Tea Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4270599,
+          37.7492082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366700371",
+      "properties": {
+        "@id": "node/366700371",
+        "addr:housenumber": "1441",
+        "addr:street": "Stockton Street",
+        "amenity": "cafe",
+        "created_by": "Potlatch 0.10f",
+        "name": "Cavalli Book and Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409122,
+          37.7991894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/376213628",
+      "properties": {
+        "@id": "node/376213628",
+        "amenity": "cafe",
+        "created_by": "Potlatch 0.10f",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4149186,
+          37.7782702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/376235927",
+      "properties": {
+        "@id": "node/376235927",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "685",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Beach Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "opening_hours": "Mo-Fr 05:00-21:30;Sa-Su 05:00-22:00",
+        "phone": "+1 415 4090840",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4203574,
+          37.8065481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/392452984",
+      "properties": {
+        "@id": "node/392452984",
+        "amenity": "cafe",
+        "name": "Tea House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4698172,
+          37.7703911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410845445",
+      "properties": {
+        "@id": "node/410845445",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1191",
+        "addr:postcode": "94109",
+        "addr:street": "Pine Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "inside_at_operator": "Bay ATM",
+        "inside_atm": "1",
+        "internet_access": "yes",
+        "name": "Another Cafe",
+        "phone": "+1 415 857 5770",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4154112,
+          37.7901681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/411083201",
+      "properties": {
+        "@id": "node/411083201",
+        "addr:housenumber": "375",
+        "addr:street": "Valencia Street",
+        "amenity": "cafe",
+        "cost:coffee": "$3",
+        "name": "Four Barrel Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4219479,
+          37.7673162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/417181233",
+      "properties": {
+        "@id": "node/417181233",
+        "amenity": "cafe",
+        "name": "Central Coffee and Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4442758,
+          37.7743281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418513660",
+      "properties": {
+        "@id": "node/418513660",
+        "addr:housenumber": "521",
+        "addr:street": "Valencia Street",
+        "amenity": "cafe",
+        "name": "Muddy Waters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4216812,
+          37.7645003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418514136",
+      "properties": {
+        "@id": "node/418514136",
+        "addr:housenumber": "483",
+        "addr:street": "Guerrero Street",
+        "amenity": "cafe",
+        "name": "Petra Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4237891,
+          37.7635994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443372068",
+      "properties": {
+        "@id": "node/443372068",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1026",
+        "addr:postcode": "94110",
+        "addr:street": "Valencia Street",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Ritual Coffee Roasters",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 07:00-22:00;Su 07:00-21:00",
+        "phone": "+1 415 641 1011",
+        "website": "http://www.ritualroasters.com/",
+        "wheelchair": "yes",
+        "wikipedia": "en:Ritual Coffee Roasters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4212286,
+          37.7564167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448036312",
+      "properties": {
+        "@id": "node/448036312",
+        "amenity": "cafe",
+        "cuisine": "donut",
+        "name": "All Stars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4688161,
+          37.7826281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448038882",
+      "properties": {
+        "@id": "node/448038882",
+        "amenity": "cafe",
+        "cuisine": "coffee",
+        "name": "Martha & Bros. Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4613841,
+          37.7832278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528057543",
+      "properties": {
+        "@id": "node/528057543",
+        "addr:housenumber": "298",
+        "addr:street": "Valencia Street",
+        "amenity": "cafe",
+        "name": "Carlin's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4223857,
+          37.7682118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529772037",
+      "properties": {
+        "@id": "node/529772037",
+        "amenity": "cafe",
+        "name:en": "Samovar Tea Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.425615,
+          37.773592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534888272",
+      "properties": {
+        "@id": "node/534888272",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "359",
+        "addr:postcode": "94117",
+        "addr:street": "Divisadero Street",
+        "amenity": "cafe",
+        "name:en": "Vinyl Cafe",
+        "website": "http://vinylsf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4375957,
+          37.773006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560515139",
+      "properties": {
+        "@id": "node/560515139",
+        "amenity": "cafe",
+        "name": "Peets Coffee & Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3956694,
+          37.7884142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/582778903",
+      "properties": {
+        "@id": "node/582778903",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1300",
+        "addr:street": "Dolores Street",
+        "amenity": "cafe",
+        "name": "Luv a Java"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4250659,
+          37.7485396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/586713622",
+      "properties": {
+        "@id": "node/586713622",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2257",
+        "addr:postcode": "94114",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Peet's Coffee & Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4320119,
+          37.7648492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599417363",
+      "properties": {
+        "@id": "node/599417363",
+        "amenity": "cafe",
+        "name": "Golden Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477721,
+          37.754291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/613270075",
+      "properties": {
+        "@id": "node/613270075",
+        "amenity": "cafe",
+        "name": "La Boulange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4098389,
+          37.7998684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621851561",
+      "properties": {
+        "@id": "node/621851561",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:state": "CA",
+        "addr:street": "Sutter Street",
+        "amenity": "cafe",
+        "name": "Sugar Cafe",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4115293,
+          37.7887659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632725242",
+      "properties": {
+        "@id": "node/632725242",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "329",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "amenity": "cafe",
+        "name": "Greenhouse",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4695681,
+          37.7373354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638752547",
+      "properties": {
+        "@id": "node/638752547",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "100",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4673069,
+          37.7397088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/647656702",
+      "properties": {
+        "@id": "node/647656702",
+        "addr:housenumber": "783",
+        "addr:street": "Haight Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "The Grind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349625,
+          37.7714409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/647656706",
+      "properties": {
+        "@id": "node/647656706",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Bean There"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432022,
+          37.7710336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/647656728",
+      "properties": {
+        "@id": "node/647656728",
+        "addr:housenumber": "663",
+        "addr:street": "Haight Street",
+        "amenity": "cafe",
+        "name": "Nectar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4331366,
+          37.771672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/647656785",
+      "properties": {
+        "@id": "node/647656785",
+        "addr:street": "Haight Street",
+        "amenity": "cafe",
+        "name": "Cafe International",
+        "undefined": "coffee_shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4307254,
+          37.7721693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666369832",
+      "properties": {
+        "@id": "node/666369832",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "852",
+        "addr:postcode": "94117",
+        "addr:street": "Stanyan Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Lava Java"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4528662,
+          37.7666454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677681773",
+      "properties": {
+        "@id": "node/677681773",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1748",
+        "addr:postcode": "94131",
+        "addr:street": "Church Street",
+        "address": "1748 Church Street",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "name": "Toast Eatery",
+        "phone": "+1 (415) 282-4328",
+        "website": "http://www.toasteatery.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4267774,
+          37.7429854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/679010810",
+      "properties": {
+        "@id": "node/679010810",
+        "amenity": "cafe",
+        "name": "The Creamery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3951135,
+          37.7774251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/705410439",
+      "properties": {
+        "@id": "node/705410439",
+        "amenity": "cafe",
+        "name": "Thinker's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397803,
+          37.759835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/709858563",
+      "properties": {
+        "@id": "node/709858563",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "577",
+        "addr:state": "CA",
+        "addr:street": "Geary Street",
+        "amenity": "cafe",
+        "name": "Mango's Cafe",
+        "phone": "+1 415 440 2097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4127618,
+          37.7866794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/725066744",
+      "properties": {
+        "@id": "node/725066744",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "608",
+        "addr:state": "CA",
+        "addr:street": "Geary Street",
+        "amenity": "cafe",
+        "name": "Juice Zone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4135614,
+          37.7868113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/725100826",
+      "properties": {
+        "@id": "node/725100826",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "442",
+        "addr:state": "CA",
+        "addr:street": "Geary Street",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410788,
+          37.7871632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732005606",
+      "properties": {
+        "@id": "node/732005606",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "930",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Geary Street",
+        "amenity": "cafe",
+        "name": "Hoang Dat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4188458,
+          37.7861325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/747853234",
+      "properties": {
+        "@id": "node/747853234",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2164",
+        "addr:postcode": "94109",
+        "addr:street": "Polk Street",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Crave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4217701,
+          37.7967997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/761949154",
+      "properties": {
+        "@id": "node/761949154",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4131854,
+          37.7755887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/775379090",
+      "properties": {
+        "@id": "node/775379090",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3967501,
+          37.7857739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808884914",
+      "properties": {
+        "@id": "node/808884914",
+        "addr:housenumber": "Ellis Street",
+        "amenity": "cafe",
+        "name": "Daniel's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4089827,
+          37.7854715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808930732",
+      "properties": {
+        "@id": "node/808930732",
+        "amenity": "cafe",
+        "name": "Sunflower Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4094251,
+          37.7863496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808930741",
+      "properties": {
+        "@id": "node/808930741",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408194,
+          37.7865192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808930773",
+      "properties": {
+        "@id": "node/808930773",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "75",
+        "addr:street": "O'Farrell Street",
+        "amenity": "cafe",
+        "name": "Crepe o Chocolat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4057236,
+          37.7866124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808930779",
+      "properties": {
+        "@id": "node/808930779",
+        "amenity": "cafe",
+        "name": "Peet's Coffee & Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4063566,
+          37.786905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808930783",
+      "properties": {
+        "@id": "node/808930783",
+        "amenity": "cafe",
+        "name": "Boudin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4073142,
+          37.7866442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808930817",
+      "properties": {
+        "@id": "node/808930817",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "780",
+        "addr:postcode": "94102",
+        "addr:state": "CA",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4056853,
+          37.7861393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819444943",
+      "properties": {
+        "@id": "node/819444943",
+        "amenity": "cafe",
+        "name": "Quetzal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420106,
+          37.7883656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819445015",
+      "properties": {
+        "@id": "node/819445015",
+        "amenity": "cafe",
+        "name": "Crepes Ooh La La"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4200791,
+          37.7881282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819447638",
+      "properties": {
+        "@id": "node/819447638",
+        "amenity": "cafe",
+        "name": "Moussys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4193496,
+          37.7886878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819447654",
+      "properties": {
+        "@id": "node/819447654",
+        "amenity": "cafe",
+        "name": "Coffee Cabin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4171394,
+          37.7889803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/825914916",
+      "properties": {
+        "@id": "node/825914916",
+        "amenity": "cafe",
+        "name": "H2O Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420291,
+          37.7892577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/825967006",
+      "properties": {
+        "@id": "node/825967006",
+        "amenity": "cafe",
+        "name": "Donuts & Things"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420991,
+          37.7912435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/825967065",
+      "properties": {
+        "@id": "node/825967065",
+        "addr:housenumber": "1475",
+        "addr:postcode": "94109",
+        "addr:street": "Polk Street",
+        "amenity": "cafe",
+        "name": "Star Bagels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4208088,
+          37.7904349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/825967152",
+      "properties": {
+        "@id": "node/825967152",
+        "amenity": "cafe",
+        "name": "New Village Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4204654,
+          37.7900873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/826961052",
+      "properties": {
+        "@id": "node/826961052",
+        "amenity": "cafe",
+        "name": "Moka Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4210599,
+          37.7916578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/826961062",
+      "properties": {
+        "@id": "node/826961062",
+        "amenity": "cafe",
+        "name": "Bob's Donuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4210963,
+          37.7919116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/830588125",
+      "properties": {
+        "@id": "node/830588125",
+        "amenity": "cafe",
+        "name": "Little Bird Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4170166,
+          37.7861507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/830825687",
+      "properties": {
+        "@id": "node/830825687",
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449351,
+          37.7992577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/864021238",
+      "properties": {
+        "@id": "node/864021238",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4217433,
+          37.7730342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919280323",
+      "properties": {
+        "@id": "node/919280323",
+        "amenity": "cafe",
+        "name": "Sugarlump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4095775,
+          37.7528573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/950977348",
+      "properties": {
+        "@id": "node/950977348",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3966588,
+          37.7940049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/960932055",
+      "properties": {
+        "@id": "node/960932055",
+        "addr:housenumber": "1396",
+        "addr:postcode": "94122",
+        "addr:street": "La Playa Street",
+        "address": "1396 La Playa Street",
+        "amenity": "cafe",
+        "name": "Java Beach Cafe",
+        "phone": "+1 (415) 665-5282",
+        "website": "http://www.javabeachsf.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5089783,
+          37.7604494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/960933322",
+      "properties": {
+        "@id": "node/960933322",
+        "amenity": "cafe",
+        "name": "Trouble Coffee Co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5053868,
+          37.7603455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/967404586",
+      "properties": {
+        "@id": "node/967404586",
+        "amenity": "cafe",
+        "name": "Progressive Grounds Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4095121,
+          37.7574671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/968355348",
+      "properties": {
+        "@id": "node/968355348",
+        "amenity": "cafe",
+        "name": "Cafe St. Jorge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422669,
+          37.741615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/968355561",
+      "properties": {
+        "@id": "node/968355561",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1799",
+        "addr:street": "Church Street",
+        "amenity": "cafe",
+        "description": "Sandwiches, quiches, cakes, cookies",
+        "name": "Cafe XO",
+        "opening_hours": "Mo-Sa 06:00-19:00;Su 07:00-19:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4264051,
+          37.7422092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/974352510",
+      "properties": {
+        "@id": "node/974352510",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "2885",
+        "addr:state": "CA",
+        "addr:street": "Diamond Street",
+        "amenity": "cafe",
+        "name": "Cafe Bello",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 07:30-18:00; Su 08:00-17:00",
+        "phone": "415-585-3457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4339474,
+          37.7337422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1014031956",
+      "properties": {
+        "@id": "node/1014031956",
+        "addr:housenumber": "701",
+        "addr:street": "Cole Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Cole Valley Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4506579,
+          37.7684783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1014036781",
+      "properties": {
+        "@id": "node/1014036781",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "919",
+        "addr:postcode": "94117",
+        "addr:state": "CA",
+        "addr:street": "Cole Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Peets Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4500386,
+          37.7654459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1029097179",
+      "properties": {
+        "@id": "node/1029097179",
+        "amenity": "cafe",
+        "name": "Chatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3983575,
+          37.7623918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1097231657",
+      "properties": {
+        "@id": "node/1097231657",
+        "amenity": "cafe",
+        "name": "Velo Rouge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4582524,
+          37.7754002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1130796532",
+      "properties": {
+        "@id": "node/1130796532",
+        "addr:housenumber": "2760",
+        "addr:postcode": "94110",
+        "addr:street": "24th Street",
+        "address": "2760 24th Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Dynamo Donut & Coffee",
+        "phone": "+1 (415) 920-1978",
+        "website": "http://www.dynamodonut.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4076372,
+          37.7529654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1193380617",
+      "properties": {
+        "@id": "node/1193380617",
+        "amenity": "cafe",
+        "name": "Crown & Crumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423063,
+          37.8059568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1195374514",
+      "properties": {
+        "@id": "node/1195374514",
+        "amenity": "cafe",
+        "name": "Bazaar Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4811269,
+          37.7839525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1195375020",
+      "properties": {
+        "@id": "node/1195375020",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "6000",
+        "addr:postcode": "94121",
+        "addr:state": "CA",
+        "addr:street": "California Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop,_sandwich,_ice_cream",
+        "name": "Angelina's Cafe",
+        "opening_hours": "Mon–Sat: 6:30am–6pm; Sun: 7:30am–5pm",
+        "phone": "+1 (415) 221-7801",
+        "smoking": "no",
+        "website": "http://www.angelinasdelicafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4819637,
+          37.7841475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1229745482",
+      "properties": {
+        "@id": "node/1229745482",
+        "amenity": "cafe",
+        "name": "Rancho Parnassus Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4076633,
+          37.779933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1230343461",
+      "properties": {
+        "@id": "node/1230343461",
+        "amenity": "cafe",
+        "name": "Giant Scoop Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4036795,
+          37.7274098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1238299641",
+      "properties": {
+        "@id": "node/1238299641",
+        "amenity": "cafe",
+        "name": "Railroad Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4514184,
+          37.7313203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1238299664",
+      "properties": {
+        "@id": "node/1238299664",
+        "amenity": "cafe",
+        "name": "Monterey Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4459403,
+          37.7313203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1241673242",
+      "properties": {
+        "@id": "node/1241673242",
+        "amenity": "cafe",
+        "name": "Silver Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4315588,
+          37.7287077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1244854582",
+      "properties": {
+        "@id": "node/1244854582",
+        "addr:housenumber": "1161",
+        "addr:street": "Mission Street",
+        "amenity": "cafe",
+        "name": "M Cafe",
+        "phone": "4156849288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.412226,
+          37.777968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1246390510",
+      "properties": {
+        "@id": "node/1246390510",
+        "amenity": "cafe",
+        "name": "Bread and cocoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4036851,
+          37.7896758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282408829",
+      "properties": {
+        "@id": "node/1282408829",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Peet's Coffee and Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4007902,
+          37.7894665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282882085",
+      "properties": {
+        "@id": "node/1282882085",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Chatz Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3977478,
+          37.7865514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1292347132",
+      "properties": {
+        "@id": "node/1292347132",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4504012,
+          37.7770621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1293838055",
+      "properties": {
+        "@id": "node/1293838055",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Tart to Tart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4007244,
+          37.7874778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1293838091",
+      "properties": {
+        "@id": "node/1293838091",
+        "addr:housenumber": "122",
+        "addr:street": "New Montgomery Street",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Working Girls' Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4002114,
+          37.7870679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1306052376",
+      "properties": {
+        "@id": "node/1306052376",
+        "addr:housenumber": "1618",
+        "addr:street": "Noriega Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Henry's House of Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4813084,
+          37.7541558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1320562873",
+      "properties": {
+        "@id": "node/1320562873",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4010378,
+          37.7877716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1393930496",
+      "properties": {
+        "@id": "node/1393930496",
+        "amenity": "cafe",
+        "name": "Cafe Madeleine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3997314,
+          37.7869931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1393930515",
+      "properties": {
+        "@id": "node/1393930515",
+        "amenity": "cafe",
+        "name": "Specialty's Cafe and Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4003276,
+          37.7874225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1393930517",
+      "properties": {
+        "@id": "node/1393930517",
+        "amenity": "cafe",
+        "name": "The Roastery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3993014,
+          37.7866405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1393986237",
+      "properties": {
+        "@id": "node/1393986237",
+        "amenity": "cafe",
+        "internet_access": "wlan;terminal",
+        "internet_access:fee": "no",
+        "name": "Cafe Venue",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4068367,
+          37.783201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1393986248",
+      "properties": {
+        "@id": "node/1393986248",
+        "amenity": "cafe",
+        "name": "Latte Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4074139,
+          37.7832739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1395112633",
+      "properties": {
+        "@id": "node/1395112633",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4041981,
+          37.7841729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484799258",
+      "properties": {
+        "@id": "node/1484799258",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4057517,
+          37.7904287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1486000122",
+      "properties": {
+        "@id": "node/1486000122",
+        "amenity": "cafe",
+        "name": "Roxanne Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4086514,
+          37.7900567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1486009911",
+      "properties": {
+        "@id": "node/1486009911",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "809",
+        "addr:postcode": "94108",
+        "addr:street": "Bush Street",
+        "amenity": "cafe",
+        "name": "Jasmin's Cafe & Deli",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4109,
+          37.789725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1486063055",
+      "properties": {
+        "@id": "node/1486063055",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408375,
+          37.789114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492808285",
+      "properties": {
+        "@id": "node/1492808285",
+        "amenity": "cafe",
+        "name": "Cable Car Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4088073,
+          37.789484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1493456455",
+      "properties": {
+        "@id": "node/1493456455",
+        "addr:housenumber": "1408",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Ma'velous",
+        "website": "http://maveloussf.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4180877,
+          37.7763591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1493456487",
+      "properties": {
+        "@id": "node/1493456487",
+        "addr:housenumber": "1390",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4172737,
+          37.777046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1564470253",
+      "properties": {
+        "@id": "node/1564470253",
+        "amenity": "cafe",
+        "name": "General Store (Cafe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4687555,
+          37.7938365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1581862146",
+      "properties": {
+        "@id": "node/1581862146",
+        "addr:housenumber": "1415",
+        "addr:street": "Larkin Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Contraband Coffee Bar",
+        "website": "http://contrabandcoffeebar.com/home.html",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4192372,
+          37.7910697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1610994013",
+      "properties": {
+        "@id": "node/1610994013",
+        "addr:housenumber": "2128",
+        "addr:postcode": "94110",
+        "addr:street": "Folsom Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Stable Cafe",
+        "opening_hours": "Mo-Fr 08:00-16:00; Sa 09:00-16:00; Su 10:00-14:00",
+        "phone": "+1 415 552 1199",
+        "terrace": "yes",
+        "website": "http://stablecafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4152866,
+          37.7632466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613829040",
+      "properties": {
+        "@id": "node/1613829040",
+        "addr:housenumber": "123",
+        "addr:street": "2nd Street",
+        "amenity": "cafe",
+        "name": "Muffins Muffins",
+        "phone": "+1 415 342 7588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992915,
+          37.7877961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613831308",
+      "properties": {
+        "@id": "node/1613831308",
+        "addr:housenumber": "36",
+        "addr:street": "2nd Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4008757,
+          37.7886901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1617283399",
+      "properties": {
+        "@id": "node/1617283399",
+        "amenity": "cafe",
+        "name": "Specialty's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992713,
+          37.7914869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1617283411",
+      "properties": {
+        "@id": "node/1617283411",
+        "amenity": "cafe",
+        "name": "Peet's Coffee & Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3994657,
+          37.7914682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1617289729",
+      "properties": {
+        "@id": "node/1617289729",
+        "addr:housenumber": "209",
+        "addr:street": "Jackson Street",
+        "amenity": "cafe",
+        "name": "Cafe Insalata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3998422,
+          37.7967881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1627837843",
+      "properties": {
+        "@id": "node/1627837843",
+        "amenity": "cafe",
+        "name": "Neeto's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3999969,
+          37.7893565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1700641974",
+      "properties": {
+        "@id": "node/1700641974",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "270",
+        "addr:postcode": "94103",
+        "addr:street": "7th Street",
+        "amenity": "cafe",
+        "cost:coffee": "$2.5",
+        "name": "Sightglass Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4082738,
+          37.7769247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1700641977",
+      "properties": {
+        "@id": "node/1700641977",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "289",
+        "addr:postcode": "94103",
+        "addr:street": "8th Street",
+        "address": "289 8th Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Wicked Grounds",
+        "phone": "+1 (415) 503-0405",
+        "website": "http://www.wickedgrounds.com",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4101688,
+          37.7752496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713256879",
+      "properties": {
+        "@id": "node/1713256879",
+        "amenity": "cafe",
+        "name": "Cafe Ponte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4361503,
+          37.751262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713269532",
+      "properties": {
+        "@id": "node/1713269532",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3995",
+        "addr:postcode": "94114",
+        "addr:street": "24th Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4316832,
+          37.7513214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713269576",
+      "properties": {
+        "@id": "node/1713269576",
+        "amenity": "cafe",
+        "name": "Peasant Pies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4344593,
+          37.7513437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713269606",
+      "properties": {
+        "@id": "node/1713269606",
+        "amenity": "cafe",
+        "name": "Bernie's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4311708,
+          37.7516023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762825978",
+      "properties": {
+        "@id": "node/1762825978",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Cafe Coco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4644592,
+          37.780834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1763183950",
+      "properties": {
+        "@id": "node/1763183950",
+        "amenity": "cafe",
+        "name": "Javaholics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4638489,
+          37.7770961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769223514",
+      "properties": {
+        "@id": "node/1769223514",
+        "addr:housenumber": "306",
+        "addr:street": "Clement Street",
+        "amenity": "cafe",
+        "name": "Blue Danube Coffee House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4625522,
+          37.7831528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769223520",
+      "properties": {
+        "@id": "node/1769223520",
+        "addr:housenumber": "5301",
+        "addr:street": "Geary Boulevard",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Royal Ground Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4763814,
+          37.7802857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1809593836",
+      "properties": {
+        "@id": "node/1809593836",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1509",
+        "addr:postcode": "94132",
+        "addr:state": "CA",
+        "addr:street": "Sloat Boulevard",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Peet's Coffee",
+        "operator": "Peet's Coffee & Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4897011,
+          37.7335649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815334007",
+      "properties": {
+        "@id": "node/1815334007",
+        "addr:housenumber": "105",
+        "addr:postcode": "94103",
+        "addr:street": "Valencia St.",
+        "amenity": "cafe",
+        "name": "V-105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4223535,
+          37.7714662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823804078",
+      "properties": {
+        "@id": "node/1823804078",
+        "amenity": "cafe",
+        "name": "Caffe Bianco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4011911,
+          37.7900511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1846461309",
+      "properties": {
+        "@id": "node/1846461309",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4221183,
+          37.7967569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1847653049",
+      "properties": {
+        "@id": "node/1847653049",
+        "addr:housenumber": "764",
+        "addr:street": "Harrison Street",
+        "amenity": "cafe",
+        "name": "Epicenter Cafe",
+        "phone": "+1 415-543-5436",
+        "website": "http://www.epicentercafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3989875,
+          37.781512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1847720030",
+      "properties": {
+        "@id": "node/1847720030",
+        "amenity": "cafe",
+        "name": "Eddie's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4380361,
+          37.7770034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1857231112",
+      "properties": {
+        "@id": "node/1857231112",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4150836,
+          37.8053319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1880206745",
+      "properties": {
+        "@id": "node/1880206745",
+        "amenity": "cafe",
+        "name": "Patisserie Bonjour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4027645,
+          37.7707657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1880208351",
+      "properties": {
+        "@id": "node/1880208351",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4034984,
+          37.7701928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1880213777",
+      "properties": {
+        "@id": "node/1880213777",
+        "amenity": "cafe",
+        "name": "Peet’s Coffee & Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4074364,
+          37.7707911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1900829412",
+      "properties": {
+        "@id": "node/1900829412",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.402976,
+          37.8030024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1956078877",
+      "properties": {
+        "@id": "node/1956078877",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1799",
+        "addr:postcode": "94117",
+        "addr:state": "CA",
+        "addr:street": "Fulton Street",
+        "amenity": "cafe",
+        "atm": "no",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "outdoor_seating": "yes",
+        "website": "http://www.starbucks.com/store/16589",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4463778,
+          37.7757247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1957272522",
+      "properties": {
+        "@id": "node/1957272522",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Amitis Deli-Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4459653,
+          37.7738438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1958696320",
+      "properties": {
+        "@id": "node/1958696320",
+        "amenity": "cafe",
+        "name": "Bread & Butter Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4477742,
+          37.7736247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1958757624",
+      "properties": {
+        "@id": "node/1958757624",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "672",
+        "addr:postcode": "94117",
+        "addr:state": "CA",
+        "addr:street": "Stanyan Street",
+        "amenity": "cafe",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Flywheel Coffee",
+        "outdoor_seating": "yes",
+        "website": "http://www.flywheelcoffee.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4534584,
+          37.7696837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1980329165",
+      "properties": {
+        "@id": "node/1980329165",
+        "amenity": "cafe",
+        "name": "Sacred Grounds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4508521,
+          37.7732007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1981987728",
+      "properties": {
+        "@id": "node/1981987728",
+        "amenity": "cafe",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Oasis Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438569,
+          37.7778761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1983054074",
+      "properties": {
+        "@id": "node/1983054074",
+        "addr:housenumber": "900",
+        "addr:street": "North Point Street",
+        "amenity": "cafe",
+        "name": "Black Point Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4219022,
+          37.8057145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2005894602",
+      "properties": {
+        "@id": "node/2005894602",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2018",
+        "addr:postcode": "94114",
+        "addr:state": "CA",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "opening_hours": "Mo-Sa 05:00-21:00; Su 06:00-20:00",
+        "phone": "1-415-431-5561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4277243,
+          37.7690716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2052391118",
+      "properties": {
+        "@id": "node/2052391118",
+        "addr:housenumber": "3318",
+        "addr:street": "24th Street",
+        "amenity": "cafe",
+        "name": "Cafe La Boheme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4189203,
+          37.7523144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2074158507",
+      "properties": {
+        "@id": "node/2074158507",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4980976,
+          37.7755527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2095344770",
+      "properties": {
+        "@id": "node/2095344770",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "433",
+        "addr:postcode": "94103",
+        "addr:street": "South Van Ness Avenue",
+        "amenity": "cafe",
+        "atm": "no",
+        "contact:email": "TheFlyingPigBistro@gmail.com",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Flying Pig Bistro",
+        "opening_hours": "Mo-Th 07:30-21:00; Fr 07:30-23:00; Sa 09:00-23:00; Su 09:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-415-934-1234",
+        "takeaway": "yes",
+        "website": "flyingpigbistropub.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417422,
+          37.766319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2129923219",
+      "properties": {
+        "@id": "node/2129923219",
+        "amenity": "cafe",
+        "name": "Cafe Rain Tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4675025,
+          37.7395399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2130160675",
+      "properties": {
+        "@id": "node/2130160675",
+        "amenity": "cafe",
+        "name": "Charlie's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4137576,
+          37.7470952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2130160677",
+      "properties": {
+        "@id": "node/2130160677",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "500",
+        "addr:postcode": "94110",
+        "addr:street": "Precita Avenue",
+        "amenity": "cafe",
+        "drive_through": "no",
+        "name": "Precita Park Cafe",
+        "outdoor_seating": "yes",
+        "phone": "415-647-7702",
+        "takeaway": "yes",
+        "website": "http://www.precitaparkcafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410443,
+          37.747051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2133892604",
+      "properties": {
+        "@id": "node/2133892604",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "2436",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "The Brew",
+        "phone": "(415)440-1678",
+        "website": "www.thebrewsf.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4223108,
+          37.799314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2134441489",
+      "properties": {
+        "@id": "node/2134441489",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "730",
+        "addr:postcode": "94103",
+        "addr:street": "Howard St",
+        "amenity": "cafe",
+        "name": "Samovar Tea Lounge",
+        "phone": "4152279400",
+        "website": "http://www.samovarlife.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40207,
+          37.7842301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2143171447",
+      "properties": {
+        "@id": "node/2143171447",
+        "amenity": "cafe",
+        "food": "yes",
+        "name": "Nani's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4485288,
+          37.7820885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2144839391",
+      "properties": {
+        "@id": "node/2144839391",
+        "alt_name": "Réveille",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Réveille Coffee Co.",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4055336,
+          37.7972459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2144839392",
+      "properties": {
+        "@id": "node/2144839392",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "chefchris@thestationsf.com",
+        "name": "The Station",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su 10:00-16:00",
+        "phone": "+1 415-291-0690",
+        "source": "survey",
+        "website": "http://www.thestationsf.com/",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4051977,
+          37.7972068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2147409252",
+      "properties": {
+        "@id": "node/2147409252",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1799",
+        "addr:postcode": "94115",
+        "addr:state": "CA",
+        "addr:street": "McAllister Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Matching Half Cafe",
+        "website": "http://www.matchinghalfcafe.com",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.441468,
+          37.7772852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2156202862",
+      "properties": {
+        "@id": "node/2156202862",
+        "alt_name": "Rustico",
+        "amenity": "cafe",
+        "name": "A2 Cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399881,
+          37.7671329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2166577123",
+      "properties": {
+        "@id": "node/2166577123",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "website": "http://www.starbucks.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4010588,
+          37.7977377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167144980",
+      "properties": {
+        "@id": "node/2167144980",
+        "amenity": "cafe",
+        "name": "Loving Cup",
+        "opening_hours": "Mo-Th 12:00-21:30; Fr-Su 11:00-22:30",
+        "phone": "+1 415-440-6900",
+        "website": "http://www.lovingcupsf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4221616,
+          37.7986234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167198618",
+      "properties": {
+        "@id": "node/2167198618",
+        "amenity": "cafe",
+        "cuisine": "cafe",
+        "internet_access": "yes",
+        "name": "Royal Ground Coffee",
+        "website": "http://www.royalgroundcoffee.net/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4218431,
+          37.7971578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167562321",
+      "properties": {
+        "@id": "node/2167562321",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2139 C",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "cafe",
+        "name": "Peet's Coffee & Tea",
+        "opening_hours": "Sa-Su 06:00-20:00;Mo-Fr 05:30-20:00",
+        "smoking": "no",
+        "website": "https://www.peets.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4221243,
+          37.7965391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2187987262",
+      "properties": {
+        "@id": "node/2187987262",
+        "amenity": "cafe",
+        "name": "Church Street Cafe",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4290387,
+          37.7664253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2220968784",
+      "properties": {
+        "@id": "node/2220968784",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4222955,
+          37.788587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2220968786",
+      "properties": {
+        "@id": "node/2220968786",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4220729,
+          37.7902253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2248312524",
+      "properties": {
+        "@id": "node/2248312524",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "3240",
+        "addr:state": "CA",
+        "addr:street": "Geary Boulevard",
+        "amenity": "cafe",
+        "name": "Internos Wine Cafe",
+        "phone": "+1 (415) 751-2661",
+        "website": "http://www.internoswinecafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4538462,
+          37.7819235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2300024035",
+      "properties": {
+        "@id": "node/2300024035",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4014547,
+          37.7936454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2304346688",
+      "properties": {
+        "@id": "node/2304346688",
+        "addr:housenumber": "51",
+        "addr:postcode": "94132",
+        "addr:street": "Cambon Drive",
+        "amenity": "cafe",
+        "name": "Spressa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4741388,
+          37.7179072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2310115693",
+      "properties": {
+        "@id": "node/2310115693",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3970182,
+          37.7937805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2310116024",
+      "properties": {
+        "@id": "node/2310116024",
+        "amenity": "cafe",
+        "name": "Peet's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3970884,
+          37.7933648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2313886060",
+      "properties": {
+        "@id": "node/2313886060",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Starbucks Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3967018,
+          37.7786747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2318141840",
+      "properties": {
+        "@id": "node/2318141840",
+        "addr:housenumber": "464",
+        "addr:postcode": "94114",
+        "addr:street": "Castro Street",
+        "amenity": "cafe",
+        "name": "Cafe Mystique",
+        "phone": "+1 (415) 865-9963",
+        "website": "http://www.cafe-mystique.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4352495,
+          37.7614816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2318141875",
+      "properties": {
+        "@id": "node/2318141875",
+        "addr:housenumber": "427",
+        "addr:postcode": "94114",
+        "addr:street": "Castro Street",
+        "amenity": "cafe",
+        "name": "Castro Coffee Company",
+        "phone": "+1 (415) 552-6676",
+        "website": "http://www.castro-coffee.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349779,
+          37.7621014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2318159226",
+      "properties": {
+        "@id": "node/2318159226",
+        "addr:housenumber": "4094",
+        "addr:postcode": "94114",
+        "addr:street": "18th Street",
+        "amenity": "cafe",
+        "name": "Starbucks Coffee",
+        "phone": "+1 (415) 626-6263",
+        "ref": "16848",
+        "website": "http://www.starbucks.com/store/16848/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4346633,
+          37.7610101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2338783975",
+      "properties": {
+        "@id": "node/2338783975",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403836,
+          37.79067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2338784403",
+      "properties": {
+        "@id": "node/2338784403",
+        "addr:city": "San Francisco",
+        "addr:street": "Powell Street",
+        "amenity": "cafe",
+        "name": "Soufflés Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410481,
+          37.797568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2338836841",
+      "properties": {
+        "@id": "node/2338836841",
+        "amenity": "cafe",
+        "name": "Bean Bag Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438002,
+          37.775117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2339603601",
+      "properties": {
+        "@id": "node/2339603601",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2268",
+        "addr:street": "Chestnut Street",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "internet_access": "no",
+        "name": "Judy's Cafe",
+        "note": "Ande's Candies are outside the bathroom upstairs.",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440888,
+          37.80038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2340887349",
+      "properties": {
+        "@id": "node/2340887349",
+        "amenity": "cafe",
+        "name": "Cafe Lé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.425025,
+          37.802115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2341263219",
+      "properties": {
+        "@id": "node/2341263219",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "882",
+        "addr:street": "North Point Street",
+        "amenity": "cafe",
+        "name": "Black Pointe Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422182,
+          37.805359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365742144",
+      "properties": {
+        "@id": "node/2365742144",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "7",
+        "addr:street": "3rd Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4032226,
+          37.7874643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375537105",
+      "properties": {
+        "@id": "node/2375537105",
+        "amenity": "cafe",
+        "name": "The Fillmore Street Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4326107,
+          37.7816149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2403912708",
+      "properties": {
+        "@id": "node/2403912708",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1890",
+        "addr:postcode": "94110",
+        "addr:street": "Bryant Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Coffee Bar",
+        "website": "http://www.coffeebarsf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4109893,
+          37.7631643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2403914322",
+      "properties": {
+        "@id": "node/2403914322",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2727",
+        "addr:postcode": "94110",
+        "addr:street": "Mariposa Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4104153,
+          37.7629013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2404428562",
+      "properties": {
+        "@id": "node/2404428562",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1024",
+        "addr:state": "CA",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "name": "Machine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410998,
+          37.781993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2411692096",
+      "properties": {
+        "@id": "node/2411692096",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Anderson Bakery",
+        "website": "http://usa.andersenbakery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4175698,
+          37.7770377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2411698457",
+      "properties": {
+        "@id": "node/2411698457",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "no",
+        "name": "Blue Bottle Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4232641,
+          37.7763031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2429468220",
+      "properties": {
+        "@id": "node/2429468220",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "101",
+        "addr:postcode": "94108",
+        "addr:street": "Post Street",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Capital One 360 Café",
+        "website": "http://cafes.capitalone360.com/san_francisco/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4038325,
+          37.7887697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2431300201",
+      "properties": {
+        "@id": "node/2431300201",
+        "amenity": "cafe",
+        "name": "Coffee Choice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3989418,
+          37.7836044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474058013",
+      "properties": {
+        "@id": "node/2474058013",
+        "amenity": "cafe",
+        "cuisine": "mexican",
+        "name": "mercury cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4241882,
+          37.7739376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474058022",
+      "properties": {
+        "@id": "node/2474058022",
+        "amenity": "cafe",
+        "cuisine": "french",
+        "name": "gourmet and more"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226877,
+          37.774748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474072779",
+      "properties": {
+        "@id": "node/2474072779",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "name": "Stelline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42276,
+          37.7764317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2494567954",
+      "properties": {
+        "@id": "node/2494567954",
+        "alt_name": "99ft2;99 Square Feet;Kafe 99 sqft",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Kafe 99 Square Feet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4141273,
+          37.7622568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2494578821",
+      "properties": {
+        "@id": "node/2494578821",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;colombian",
+        "name": "Musica Colombian Fusion & Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4176144,
+          37.7644326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2513314628",
+      "properties": {
+        "@id": "node/2513314628",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2399",
+        "addr:postcode": "94123",
+        "addr:street": "Van Ness Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4240342,
+          37.7974845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2567014259",
+      "properties": {
+        "@id": "node/2567014259",
+        "amenity": "cafe",
+        "name": "Lands End Lookout Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5116261,
+          37.7798371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576592003",
+      "properties": {
+        "@id": "node/2576592003",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "692",
+        "addr:postcode": "94105",
+        "addr:street": "Mission Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Peet's Coffee & Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4020183,
+          37.7864642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2586388026",
+      "properties": {
+        "@id": "node/2586388026",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4098985,
+          37.7860299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2612989373",
+      "properties": {
+        "@id": "node/2612989373",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "501",
+        "addr:street": "Dolores Street",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Dolores Park Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.425864,
+          37.7613601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641664313",
+      "properties": {
+        "@id": "node/2641664313",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "528",
+        "addr:postcode": "94102",
+        "addr:street": "Laguna Street",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "name": "Momi Toby's Cafe of the Revolution",
+        "opening_hours": "07:30-22:00 \"most days\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4260345,
+          37.7759431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2653086008",
+      "properties": {
+        "@id": "node/2653086008",
+        "amenity": "cafe",
+        "cuisine": "mexican",
+        "name": "Ox Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4171996,
+          37.7604925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2655462967",
+      "properties": {
+        "@id": "node/2655462967",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "815",
+        "addr:postcode": "94117",
+        "addr:street": "Cole Street",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "name": "The Ice Cream Bar",
+        "website": "http://theicecreambarsf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4502523,
+          37.7664554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2657124972",
+      "properties": {
+        "@id": "node/2657124972",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1266",
+        "addr:postcode": "94122",
+        "addr:street": "9th Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "La Boulange de Sunset",
+        "opening_hours": "Mon-Sun 7 am - 9 pm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4662117,
+          37.7646297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2657227485",
+      "properties": {
+        "@id": "node/2657227485",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "885",
+        "addr:postcode": "94103",
+        "addr:street": "Bryant Street",
+        "amenity": "cafe",
+        "name": "Caffe Roma",
+        "website": "http://www.cafferoma.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4042291,
+          37.7745227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2666409799",
+      "properties": {
+        "@id": "node/2666409799",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1304",
+        "addr:street": "Valencia Street",
+        "amenity": "cafe",
+        "name": "Muddy's Coffehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4208123,
+          37.7518905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2682478749",
+      "properties": {
+        "@id": "node/2682478749",
+        "amenity": "cafe",
+        "name": "japonica coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4766216,
+          37.784145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2682480971",
+      "properties": {
+        "@id": "node/2682480971",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "source": "note:97765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4039703,
+          37.7844812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2698381301",
+      "properties": {
+        "@id": "node/2698381301",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "925",
+        "addr:postcode": "94109",
+        "addr:street": "Larkin Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Jane",
+        "source": "http://www.tablehopper.com/chatterbox/jane-opening-a-second-location-in-the-tendernob/",
+        "website": "http://janeonfillmore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4183401,
+          37.7864812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2710274163",
+      "properties": {
+        "@id": "node/2710274163",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1600",
+        "addr:street": "Holloway Avenue",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "internet_access": "no",
+        "name": "SFSU Station Cafe",
+        "note": "Outside Kiosk; Sandwiches, Pizza  and Peet's Coffee",
+        "opening_hours": "6:30 am - 9:30 pm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4756184,
+          37.7215808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2713394902",
+      "properties": {
+        "@id": "node/2713394902",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1600",
+        "addr:postcode": "94132",
+        "addr:street": "Holloway Avenue",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Peet's Coffee",
+        "note": "Inside Library on main floor",
+        "opening_hours": "7am - 11pm (Fri closes at 7pm) (Sat 9am - 9pm Sun 9am - 11pm)",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4781643,
+          37.7215589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2713441806",
+      "properties": {
+        "@id": "node/2713441806",
+        "amenity": "cafe",
+        "name": "HSS Room 121 Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4760781,
+          37.7217749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2715021824",
+      "properties": {
+        "@id": "node/2715021824",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "742",
+        "addr:postcode": "94122",
+        "addr:street": "Irving Street",
+        "amenity": "cafe",
+        "cuisine": "bagels",
+        "name": "Posh Bagel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4659407,
+          37.764197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2722757446",
+      "properties": {
+        "@id": "node/2722757446",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Melange Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4163779,
+          37.7635121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2786939583",
+      "properties": {
+        "@id": "node/2786939583",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "736",
+        "addr:postcode": "94117",
+        "addr:street": "Divisadero Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "diet:gluten_free": "yes",
+        "diet:lactose_free": "yes",
+        "gluten_free": "yes",
+        "internet_access": "no",
+        "name": "The Mill",
+        "opening_hours": "Mo 07:00-21:00, Tu-Su 07:00-19:00",
+        "shop": "bakery",
+        "website": "http://themillsf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4379121,
+          37.7764572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2819250395",
+      "properties": {
+        "@id": "node/2819250395",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Mission Creek Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4213348,
+          37.7573788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2823796460",
+      "properties": {
+        "@id": "node/2823796460",
+        "amenity": "cafe",
+        "name": "Peet's Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4011689,
+          37.79441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2869372593",
+      "properties": {
+        "@id": "node/2869372593",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "46",
+        "addr:postcode": "94105",
+        "addr:street": "Minna Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "no",
+        "name": "Special Xtra",
+        "opening_hours": "Mo-Fr 07:30-16:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3981521,
+          37.7885328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2881830801",
+      "properties": {
+        "@id": "node/2881830801",
+        "amenity": "cafe",
+        "name": "Brazilian Acai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40206,
+          37.766291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2881830804",
+      "properties": {
+        "@id": "node/2881830804",
+        "addr:housenumber": "1398",
+        "addr:street": "Mission Street",
+        "amenity": "cafe",
+        "name": "Cumaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4159,
+          37.775488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2895323815",
+      "properties": {
+        "@id": "node/2895323815",
+        "addr:housenumber": "1500",
+        "addr:postcode": "94102",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "name": "All Star Cafe",
+        "opening_hours": "24/7",
+        "phone": "+1 4152529888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4195185,
+          37.7752166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2895323816",
+      "properties": {
+        "@id": "node/2895323816",
+        "addr:housenumber": "28",
+        "addr:postcode": "94102",
+        "addr:street": "Van Ness Ave",
+        "amenity": "cafe",
+        "name": "Boston Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4191912,
+          37.7759142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2926858615",
+      "properties": {
+        "@id": "node/2926858615",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "498",
+        "addr:postcode": "94103",
+        "addr:street": "9th Street",
+        "amenity": "cafe",
+        "name": "L'Acajou",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-16:00",
+        "website": "http://www.lacajou.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4087586,
+          37.7713064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2956095526",
+      "properties": {
+        "@id": "node/2956095526",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1415",
+        "addr:postcode": "94103",
+        "addr:street": "Folsom Street",
+        "amenity": "cafe",
+        "cost:coffee": "$3",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Sextant Coffee Roasters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4130011,
+          37.7725007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2983919102",
+      "properties": {
+        "@id": "node/2983919102",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1594",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "email": "info@javalenciacafe.com",
+        "name": "Javalencia Cafe",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su unknown \"despite what website says\"",
+        "website": "javalenciacafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4205881,
+          37.7744588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3008209423",
+      "properties": {
+        "@id": "node/3008209423",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3898",
+        "addr:street": "24th Street",
+        "amenity": "cafe",
+        "name": "La Boulange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4295255,
+          37.7516682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3008209425",
+      "properties": {
+        "@id": "node/3008209425",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3868",
+        "addr:street": "24th Street",
+        "amenity": "cafe",
+        "name": "Martha and Bros. Coffee Co."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4289873,
+          37.7517045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3064415733",
+      "properties": {
+        "@id": "node/3064415733",
+        "amenity": "cafe",
+        "name": "Cafe Greco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4084952,
+          37.7989629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3085515638",
+      "properties": {
+        "@id": "node/3085515638",
+        "addr:housenumber": "100",
+        "addr:postcode": "94105",
+        "addr:street": "1st Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "source": "www.starbucks.com",
+        "website": "www.starbucks.com",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397598,
+          37.7895579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3085522026",
+      "properties": {
+        "@id": "node/3085522026",
+        "addr:housenumber": "100",
+        "addr:postcode": "94105",
+        "addr:street": "1st Street",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "name": "Sausalito Cafe",
+        "source": "http://sausalito-cafe.com/",
+        "website": "http://sausalito-cafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3978153,
+          37.7894159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3111652169",
+      "properties": {
+        "@id": "node/3111652169",
+        "amenity": "cafe",
+        "name": "Cafe Capriccio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4131205,
+          37.8038845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3166823797",
+      "properties": {
+        "@id": "node/3166823797",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1551",
+        "addr:street": "Church Street",
+        "amenity": "cafe",
+        "name": "Martha & Bros. Coffee Company",
+        "website": "http://www.marthabros.com/pages/cafes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4267692,
+          37.7460297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3189444967",
+      "properties": {
+        "@id": "node/3189444967",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3400",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "Geary Boulevard",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Earth's Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4557595,
+          37.78162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3189444968",
+      "properties": {
+        "@id": "node/3189444968",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3500",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "Geary Boulevard",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Cup & Cake Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4568573,
+          37.7815644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3189444972",
+      "properties": {
+        "@id": "node/3189444972",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3157",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "Geary Boulevard",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "fifty/fifty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4529893,
+          37.7815599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3189444973",
+      "properties": {
+        "@id": "node/3189444973",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3101",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "Geary Boulevard",
+        "amenity": "cafe",
+        "name": "Royal Ground Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4522748,
+          37.7816366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199949652",
+      "properties": {
+        "@id": "node/3199949652",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2162",
+        "addr:postcode": "94133",
+        "addr:state": "CA",
+        "addr:street": "Powell Street",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "email": "cafe@cafefrancisco.com",
+        "internet_access": "wlan",
+        "name": "Cafe Francisco",
+        "phone": "+1 (415) 397-2602",
+        "website": "http://www.cafefrancisco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4119446,
+          37.8047249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202359181",
+      "properties": {
+        "@id": "node/3202359181",
+        "amenity": "cafe",
+        "name": "Alcatraz Landing Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4047979,
+          37.8065322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3321734312",
+      "properties": {
+        "@id": "node/3321734312",
+        "amenity": "cafe",
+        "name": "Alamo Square Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4314951,
+          37.7760172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3347152168",
+      "properties": {
+        "@id": "node/3347152168",
+        "amenity": "cafe",
+        "name": "Seismic Joint Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3987128,
+          37.8010257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3393420459",
+      "properties": {
+        "@id": "node/3393420459",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Starbucks",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4068135,
+          37.7893321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3396295282",
+      "properties": {
+        "@id": "node/3396295282",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "7",
+        "addr:postcode": "94108",
+        "addr:state": "CA",
+        "addr:street": "Claude Lane",
+        "amenity": "cafe",
+        "name": "Cafe Claude"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4044148,
+          37.7904671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3397732377",
+      "properties": {
+        "@id": "node/3397732377",
+        "amenity": "cafe",
+        "name": "Philz Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4204956,
+          37.782477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3397982293",
+      "properties": {
+        "@id": "node/3397982293",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "773",
+        "addr:postcode": "94103",
+        "addr:state": "CA",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "cuisine": "Cafe",
+        "internet_access": "yes",
+        "name": "The Coffee Bean & Tea Leaf",
+        "phone": "*1-415-896-5029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4050282,
+          37.7859932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3400370174",
+      "properties": {
+        "@id": "node/3400370174",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1435",
+        "addr:postcode": "94122",
+        "addr:street": "Irving Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Hollow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4733372,
+          37.7635885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3409669041",
+      "properties": {
+        "@id": "node/3409669041",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "330",
+        "addr:postcode": "94108",
+        "addr:state": "CA",
+        "addr:street": "Sutter Street",
+        "amenity": "cafe",
+        "name": "Sutter Cafe",
+        "phone": "+1-415-434-3309",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4061028,
+          37.7898689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3417619910",
+      "properties": {
+        "@id": "node/3417619910",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1307",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Beanery",
+        "outdoor_seating": "yes",
+        "phone": "415 661 1255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.466462,
+          37.7638106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3455075355",
+      "properties": {
+        "@id": "node/3455075355",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "345",
+        "addr:street": "3rd Street",
+        "amenity": "cafe",
+        "name": "Cafe du Soleil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3979963,
+          37.783221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3455075361",
+      "properties": {
+        "@id": "node/3455075361",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "257",
+        "addr:street": "3rd Street",
+        "amenity": "cafe",
+        "name": "Cafe Clementine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3996231,
+          37.7845268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3455075363",
+      "properties": {
+        "@id": "node/3455075363",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3998806,
+          37.7848151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3458693040",
+      "properties": {
+        "@id": "node/3458693040",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "802",
+        "addr:postcode": "94132",
+        "addr:state": "CA",
+        "addr:street": "Font Boulevard",
+        "amenity": "cafe",
+        "cuisine": "international",
+        "name": "Cafe In The Park",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4841447,
+          37.7243417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482822177",
+      "properties": {
+        "@id": "node/3482822177",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Philz Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4142899,
+          37.7523636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3493600517",
+      "properties": {
+        "@id": "node/3493600517",
+        "amenity": "cafe",
+        "name": "Cafe Enchante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48567,
+          37.7798787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3500120299",
+      "properties": {
+        "@id": "node/3500120299",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1032",
+        "addr:postcode": "94118",
+        "addr:street": "Clement Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Cafe la Flore",
+        "website": "http://cafelaflore.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.470542,
+          37.7828391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3522479598",
+      "properties": {
+        "@id": "node/3522479598",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "602",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Beanery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.464394,
+          37.764262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3529576042",
+      "properties": {
+        "@id": "node/3529576042",
+        "amenity": "cafe",
+        "name": "Academy cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4667563,
+          37.7697007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3529576043",
+      "properties": {
+        "@id": "node/3529576043",
+        "amenity": "cafe",
+        "name": "Terrace cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4667845,
+          37.7691802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3540104121",
+      "properties": {
+        "@id": "node/3540104121",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "54",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Peet's Coffee & Tea",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4666125,
+          37.7403265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3540104224",
+      "properties": {
+        "@id": "node/3540104224",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "68",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "amenity": "cafe",
+        "cuisine": "burgers",
+        "name": "Calibur",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4667867,
+          37.7401543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3540255697",
+      "properties": {
+        "@id": "node/3540255697",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "321A",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "amenity": "cafe",
+        "name": "Manor Coffee Shop",
+        "opening_hours": "Mo-Sa 07:30-20:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4692725,
+          37.7375869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3545348394",
+      "properties": {
+        "@id": "node/3545348394",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "673",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "Portola Drive",
+        "amenity": "cafe",
+        "name": "Creighton's Cafe & Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4526288,
+          37.7446634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3545350294",
+      "properties": {
+        "@id": "node/3545350294",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "737B",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "Portola Drive",
+        "amenity": "cafe",
+        "name": "Pop's Sandwich Shop",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453586,
+          37.7439573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3545461134",
+      "properties": {
+        "@id": "node/3545461134",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "675",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "Portola Drive",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4526743,
+          37.7446359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3562957693",
+      "properties": {
+        "@id": "node/3562957693",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1353",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "name": "Tea for Me",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4808806,
+          37.7427094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3564515773",
+      "properties": {
+        "@id": "node/3564515773",
+        "amenity": "cafe",
+        "name": "Quickly",
+        "name:zh": "快可立"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4776508,
+          37.7430986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3565166180",
+      "properties": {
+        "@id": "node/3565166180",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1958",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "cafe",
+        "name": "Basik Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421373,
+          37.7945889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577577294",
+      "properties": {
+        "@id": "node/3577577294",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "11",
+        "addr:postcode": "94103",
+        "addr:state": "CA",
+        "addr:street": "Division Street",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Dusty Buns Bistro",
+        "opening_hours": "Mo-Sa 10:45-21:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.402331,
+          37.7696757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3641568148",
+      "properties": {
+        "@id": "node/3641568148",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1355",
+        "addr:postcode": "94103",
+        "addr:state": "California",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "internet_access": "no",
+        "name": "Blue Bottle Coffee",
+        "opening_hours": "7 am - 7 pm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4168763,
+          37.7762395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3642090339",
+      "properties": {
+        "@id": "node/3642090339",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "171",
+        "addr:postcode": "94105",
+        "addr:state": "California",
+        "addr:street": "2nd Street",
+        "amenity": "cafe",
+        "name": "Ovo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3986501,
+          37.7872668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3648092326",
+      "properties": {
+        "@id": "node/3648092326",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "2240",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "name": "The Copper Kettle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4903566,
+          37.7425182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3657172981",
+      "properties": {
+        "@id": "node/3657172981",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1352A",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Snowbird Coffee",
+        "opening_hours": "Tu-Fr 08:00-14:00; Sa 08:00-16:00; Su 09:00-16:00",
+        "website": "http://snowbirdcoffee.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4661286,
+          37.7630712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3657172997",
+      "properties": {
+        "@id": "node/3657172997",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1392",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;gelato",
+        "name": "San Francisco Tea & Coffee Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4660712,
+          37.7624104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3658329128",
+      "properties": {
+        "@id": "node/3658329128",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1399",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "cafe",
+        "cuisine": "donut",
+        "name": "Donut World"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4663437,
+          37.7623056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3660306838",
+      "properties": {
+        "@id": "node/3660306838",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "450",
+        "addr:postcode": "94102",
+        "addr:state": "CA",
+        "addr:street": "Golden Gate Avenue",
+        "amenity": "cafe",
+        "name": "Cafe 450 Eurest Dining",
+        "phone": "+1 415 621 0874"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4180705,
+          37.7818375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3663863508",
+      "properties": {
+        "@id": "node/3663863508",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "566",
+        "addr:postcode": "94133",
+        "addr:state": "CA",
+        "addr:street": "Columbus Avenue",
+        "amenity": "cafe",
+        "name": "Mario's Bohemian Cigar Store Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4098721,
+          37.8002496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3663873573",
+      "properties": {
+        "@id": "node/3663873573",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Caffè Roma",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4093604,
+          37.7999827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3667880727",
+      "properties": {
+        "@id": "node/3667880727",
+        "amenity": "cafe",
+        "name": "Irving Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4656253,
+          37.7642138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3667880827",
+      "properties": {
+        "@id": "node/3667880827",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "641",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "amenity": "cafe",
+        "cuisine": "pastries",
+        "name": "Tart to Tart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4648878,
+          37.7639736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3674255690",
+      "properties": {
+        "@id": "node/3674255690",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "721",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Lincoln Way",
+        "amenity": "cafe",
+        "name": "Secret Garden Tea House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465855,
+          37.7658005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3686447521",
+      "properties": {
+        "@id": "node/3686447521",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1039",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "amenity": "cafe",
+        "cuisine": "pies",
+        "name": "Peasant Pies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.469159,
+          37.7637916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3688683527",
+      "properties": {
+        "@id": "node/3688683527",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1290",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "name": "San Francisco's Hometown Creamery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4662196,
+          37.764364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3688683730",
+      "properties": {
+        "@id": "node/3688683730",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1152",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "amenity": "cafe",
+        "name": "JJ Ice Cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4704706,
+          37.7639859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3695923394",
+      "properties": {
+        "@id": "node/3695923394",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "564",
+        "addr:postcode": "94105",
+        "addr:state": "CA",
+        "addr:street": "Market Street",
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "smoking": "no",
+        "website": "http://www.starbucks.com/store-locator/search/location/Market%20St%2C%20San%20Francisco%2C%20CA%2C%20USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4011356,
+          37.7897371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3699162136",
+      "properties": {
+        "@id": "node/3699162136",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1447",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "name": "Marco Polo Italian Ice Cream",
+        "website": "https://www.facebook.com/pages/Marco-Polo-Italian-Ice-Cream/111697748858718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481859,
+          37.7426455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3699162139",
+      "properties": {
+        "@id": "node/3699162139",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1400",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Mellow's Cafe",
+        "website": "https://www.facebook.com/mellowscafe88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481211,
+          37.742937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3699162140",
+      "properties": {
+        "@id": "node/3699162140",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1508",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Lou's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4824066,
+          37.742896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3702076696",
+      "properties": {
+        "@id": "node/3702076696",
+        "addr:street": "Multi Use Building",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Chasing Lions Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4528514,
+          37.7253598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3781718469",
+      "properties": {
+        "@id": "node/3781718469",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1143",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "cuisine": "mediterranean",
+        "name": "The Deli King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4786124,
+          37.7427955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3781718568",
+      "properties": {
+        "@id": "node/3781718568",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1139",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "cuisine": "tea",
+        "name": "Super Cue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478571,
+          37.7427979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3781718569",
+      "properties": {
+        "@id": "node/3781718569",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1131",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Antigua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4784037,
+          37.7428079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3789688057",
+      "properties": {
+        "@id": "node/3789688057",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Vega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4109528,
+          37.7745049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3801395648",
+      "properties": {
+        "@id": "node/3801395648",
+        "addr:housenumber": "1708",
+        "addr:street": "Haight Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Cantata",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4506115,
+          37.7696736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3801412028",
+      "properties": {
+        "@id": "node/3801412028",
+        "addr:housenumber": "609",
+        "addr:street": "Cole Street",
+        "amenity": "cafe",
+        "cuisine": "sandwiches",
+        "name": "Cafe Cole",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4508051,
+          37.7691952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3811445840",
+      "properties": {
+        "@id": "node/3811445840",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "703",
+        "addr:postcode": "94110",
+        "addr:state": "CA",
+        "addr:street": "Guerrero Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Java Supreme",
+        "opening_hours": "6:30am - 4:00pm",
+        "phone": "+1 (415) 647-2530",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4235009,
+          37.7598361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3811469214",
+      "properties": {
+        "@id": "node/3811469214",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "398",
+        "addr:postcode": "94110",
+        "addr:state": "CA",
+        "addr:street": "Dolores Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Maxfield's House of Caffeine",
+        "phone": "+1 (415) 255-6859",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4264617,
+          37.7631425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3853102316",
+      "properties": {
+        "@id": "node/3853102316",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3801",
+        "addr:postcode": "94114",
+        "addr:state": "California",
+        "addr:street": "17th Street",
+        "amenity": "cafe",
+        "name": "H Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4308916,
+          37.7626452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3869559835",
+      "properties": {
+        "@id": "node/3869559835",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1800",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Hyde Street",
+        "amenity": "cafe",
+        "name": "The Soap Box Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4185854,
+          37.7974628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879146157",
+      "properties": {
+        "@id": "node/3879146157",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "401",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Martha & Bros. Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4621735,
+          37.7640977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890789572",
+      "properties": {
+        "@id": "node/3890789572",
+        "amenity": "cafe",
+        "name": "Borderlands Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421519,
+          37.7589659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3894036010",
+      "properties": {
+        "@id": "node/3894036010",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "303",
+        "addr:postcode": "94107",
+        "addr:state": "CA",
+        "addr:street": "Second Street",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "internet_access": "yes",
+        "name": "Fearless Coffee",
+        "opening_hours": "Monday - Friday 7am - 6pm Saturday 8am - 2pm Sunday 9am - 2pm",
+        "phone": "+1  415-692-0181",
+        "website": "http://www.fearlesscoffee.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395515,
+          37.7851497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3945286361",
+      "properties": {
+        "@id": "node/3945286361",
+        "amenity": "cafe",
+        "name": "Vega at Langton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4109367,
+          37.774545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3945286368",
+      "properties": {
+        "@id": "node/3945286368",
+        "amenity": "cafe",
+        "name": "Sunrise Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4092556,
+          37.7710435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3945286369",
+      "properties": {
+        "@id": "node/3945286369",
+        "amenity": "cafe",
+        "name": "L’acajou Bakery & Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4088801,
+          37.7713319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3962599710",
+      "properties": {
+        "@id": "node/3962599710",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "4028",
+        "addr:postcode": "94114",
+        "addr:state": "CA",
+        "addr:street": "24th Street",
+        "amenity": "cafe",
+        "cuisine": "frozen_yogurt",
+        "name": "Easy Breezy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4326289,
+          37.7514837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3965698511",
+      "properties": {
+        "@id": "node/3965698511",
+        "amenity": "cafe",
+        "name": "Crepe Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4102833,
+          37.8095862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3965731542",
+      "properties": {
+        "@id": "node/3965731542",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4472154,
+          37.7821167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3969574174",
+      "properties": {
+        "@id": "node/3969574174",
+        "amenity": "cafe",
+        "name": "Chatown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4097712,
+          37.7955571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3975115565",
+      "properties": {
+        "@id": "node/3975115565",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3117",
+        "addr:postcode": "94121",
+        "addr:state": "CA",
+        "addr:street": "Clement Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Garden House Cafe",
+        "phone": "+14156681640",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4927017,
+          37.7815526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3985400819",
+      "properties": {
+        "@id": "node/3985400819",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "901",
+        "addr:postcode": "94133",
+        "addr:street": "Kearny Street",
+        "amenity": "cafe",
+        "name": "Quickly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4053136,
+          37.7962828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986855420",
+      "properties": {
+        "@id": "node/3986855420",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "145",
+        "addr:postcode": "94133",
+        "addr:state": "CA",
+        "addr:street": "Columbus Avenue",
+        "amenity": "cafe",
+        "name": "Happy Donut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4054936,
+          37.7968719
+        ]
+      }
+    }
+  ]
+}

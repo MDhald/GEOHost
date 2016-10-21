@@ -1,0 +1,292 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-07T19:50:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1621235734",
+      "properties": {
+        "@id": "node/1621235734",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1233",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Jenny's Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4665892,
+          37.7653016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762825987",
+      "properties": {
+        "@id": "node/1762825987",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "operator": "Yum! Brands",
+        "website": "http://www.kfc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4641684,
+          37.7812348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1801237430",
+      "properties": {
+        "@id": "node/1801237430",
+        "addr:housenumber": "724",
+        "addr:postcode": "94121",
+        "addr:street": "La Playa Street",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "phone": "+1 (415) 668-4725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5100442,
+          37.7747684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827274613",
+      "properties": {
+        "@id": "node/1827274613",
+        "amenity": "fast_food",
+        "name": "Domino's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4756807,
+          37.7807874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3301285862",
+      "properties": {
+        "@id": "node/3301285862",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1300",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "name": "Jamba Juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4661805,
+          37.7639235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3622464001",
+      "properties": {
+        "@id": "node/3622464001",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1030",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "Ulloa Street",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Burrito Loco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4655297,
+          37.7408775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3622464003",
+      "properties": {
+        "@id": "node/3622464003",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "820",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "Ulloa Street",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Submarine Center",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4654015,
+          37.7408061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3674255699",
+      "properties": {
+        "@id": "node/3674255699",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1201",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "fast_food",
+        "cuisine": "greek",
+        "name": "Park Gyros",
+        "website": "http://parkgyros.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4665914,
+          37.7657898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3674278789",
+      "properties": {
+        "@id": "node/3674278789",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1298",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "12th Avenue",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Irving Subs and Cheese Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4694092,
+          37.7640524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3699163029",
+      "properties": {
+        "@id": "node/3699163029",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1404",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "grubbin'",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa,Su 11:00-18:00",
+        "website": "http://www.grubbinsf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4812611,
+          37.7429359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3781718457",
+      "properties": {
+        "@id": "node/3781718457",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1601",
+        "addr:postcode": "94116",
+        "addr:state": "CA",
+        "addr:street": "Taraval Street",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "El Burrito Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4833491,
+          37.7425918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3801395644",
+      "properties": {
+        "@id": "node/3801395644",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "800",
+        "addr:postcode": "94117",
+        "addr:street": "Stanyan Street",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "North Beach Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4529802,
+          37.7672217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3801412030",
+      "properties": {
+        "@id": "node/3801412030",
+        "addr:housenumber": "1794-A",
+        "addr:street": "Haight Street",
+        "amenity": "fast_food",
+        "cuisine": "donuts",
+        "name": "Happy Donuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4517666,
+          37.7695204
+        ]
+      }
+    }
+  ]
+}

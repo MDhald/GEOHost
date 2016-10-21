@@ -1,0 +1,285 @@
+{
+  "type":"FeatureCollection",
+  "crs": {
+    "type":"name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+  ,
+  "features":[ {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 2041, "Name": "Freedom Oaks Golf Club", "Type": "Restaurant", "Website": "http://www.freedom-oaks.com/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.62684845096477, 42.840239943572584]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 2043, "Name": "Little Johnny's Sub Shop & Burgers", "Type": "Restaurant", "Website": "https://www.facebook.com/pages/Little-Johnnys-Sub-Shop/132567683435169", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.11466152827413, 42.88399522048035]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 2044, "Name": "The River's Edge Restaurant; Dunnville Golf & Country Club", "Type": "Restaurant", "Website": "http://www.dunnvillegolfclub.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.6625202704217, 42.92162590762557]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 2045, "Name": "Sunflower Cafe", "Type": "Restaurant", "Website": "https://www.facebook.com/selkirksunflowercafe/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.93203281069485, 42.83356397536663]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 2046, "Name": "Ye Olde Fisherville Restaurant", "Type": "Restaurant", "Website": "http://www.thetav.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.90409366860236, 42.881360436069954]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3340, "Name": "Debb's Cuisine on Queen", "Type": "Restaurant", "Website": "http://www.debbs.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.61854632772067, 42.901938920934214]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3341, "Name": "Dunnville Deli & Snack Bar", "Type": "Restaurant", "Website": null, "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.61390079435543, 42.903275951511304]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3342, "Name": "Flyer's Bakery and Cafe", "Type": "Restaurant", "Website": "https://www.facebook.com/flyerscafe", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.6179248083733, 42.90208056498674]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3343, "Name": "Floyd's Bar & Grill", "Type": "Restaurant", "Website": "https://www.facebook.com/Floyds-Bar-Grill-49101064137/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.01376688566718, 42.80397347074201]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3344, "Name": "Devine's Country Restaurant", "Type": "Restaurant", "Website": "http://www.devinesrestaurant.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.10356991472759, 42.88598018665162]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3345, "Name": "Just John's", "Type": "Restaurant", "Website": "http://www.justjohns.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.11249430403328, 42.884468866102054]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3346, "Name": "Hoover's Wharfside Restaurant", "Type": "Restaurant", "Website": "http://www.hooversmarina.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.06928782746103, 42.79772873485442]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3347, "Name": "Monthill Golf & Country Club", "Type": "Restaurant", "Website": "http://www.monthillgolfcc.com/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.9982952070759, 43.02192226538894]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3348, "Name": "The Old Lawson House Eatery & Pub Inc.", "Type": "Restaurant", "Website": null, "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.0542045179708, 42.96283288521011]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3349, "Name": "The Minga", "Type": "Restaurant", "Website": "https://www.facebook.com/TheMinga/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.6178441851756, 42.90211983422804]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3350, "Name": "Sandusk Golf Club Restaurant", "Type": "Restaurant", "Website": "http://www.sanduskgolf.com/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.05112744649381, 42.89865012655022]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3351, "Name": "Shelly's Family Dining Restaurant & Catering Service", "Type": "Restaurant", "Website": null, "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.86546833619538, 42.9085388833778]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3352, "Name": "Twisted Lemon Restaurant & Flavour Junkies", "Type": "Restaurant", "Website": "http://www.twistedlemon.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/13", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/13", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.85707792611343, 42.9526710287145]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3740, "Name": "The Back 40 Bar and Grill", "Type": "Restaurant", "Website": "http://www.theback40cayuga.ca/", "created_us": "Esri_Anonymous", "created_da": "2016/04/14", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/14", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.85872910160799, 42.94988224602357]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 3741, "Name": "The Broecheler Inn & Helgas Bakery", "Type": "Restaurant", "Website": "http://www.broechelerinn.com/EN/helga.php", "created_us": "Esri_Anonymous", "created_da": "2016/04/14", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/14", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.89049051999037, 42.94126551556835]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 4143, "Name": "Argyle Street Grill", "Type": "Restaurant", "Website": "http://www.theargylestreetgrill.com/", "created_us": "Esri_Anonymous", "created_da": "2016/04/14", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/14", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.96120085030562, 43.062823458671794]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 4145, "Name": "Bronco's Tavern", "Type": "Restaurant", "Website": "http://www.broncostavern.com/", "created_us": "Esri_Anonymous", "created_da": "2016/04/14", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/14", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.11347763602232, 42.885169456401485]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 4146, "Name": "Cheapside Diner", "Type": "Restaurant", "Website": "https://www.facebook.com/Cheapside-Diner-Selkirk-Ontario-482859788566045/reviews?ref=page_internal", "created_us": "Esri_Anonymous", "created_da": "2016/04/14", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/14", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.98073148664916, 42.838777136772144]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 4147, "Name": "Chestnut Lane Cafe & Gifts", "Type": "Restaurant", "Website": null, "created_us": "Esri_Anonymous", "created_da": "2016/04/14", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/14", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.61686908818533, 42.90317845001948]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 4150, "Name": "Knights Beach Resort", "Type": "Restaurant", "Website": "http://www.knightsbeach.com/surf_shack.php", "created_us": "Esri_Anonymous", "created_da": "2016/04/14", "last_edite": "Esri_Anonymous", "last_edi_1": "2016/04/14", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.7554553629193, 42.84445618422302]
+    }
+  }
+  ]
+}

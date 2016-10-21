@@ -1,0 +1,54 @@
+{
+  "type":"FeatureCollection",
+  "crs": {
+    "type":"name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+  ,
+  "features":[ {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 808, "Name": "Cayuga Arena", "Type": "Arena", "Website": "http://www.haldimandcounty.on.ca/residents.aspx?id=18343", "created_us": "MDAVIS", "created_da": "2016/03/31", "last_edite": "MDAVIS", "last_edi_1": "2016/03/31", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.85155342905216, 42.947172851672164]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 809, "Name": "Dunnville Arena", "Type": "Arena", "Website": "http://www.haldimandcounty.on.ca/residents.aspx?id=11000", "created_us": "MDAVIS", "created_da": "2016/03/31", "last_edite": "MDAVIS", "last_edi_1": "2016/03/31", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.60222010369664, 42.90684698729795]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 810, "Name": "Hagersville Arena", "Type": "Arena", "Website": "http://www.haldimandcounty.on.ca/residents.aspx?id=11000", "created_us": "MDAVIS", "created_da": "2016/03/31", "last_edite": "MDAVIS", "last_edi_1": "2016/03/31", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-80.04643653964135, 42.96394317837029]
+    }
+  }
+  ,
+  {
+    "type":"Feature",
+    "properties": {
+      "OBJECTID": 811, "Name": "Haldimand County Caledonia Centre", "Type": "Arena", "Website": "http://www.haldimandcounty.on.ca/residents.aspx?id=11000", "created_us": "MDAVIS", "created_da": "2016/03/31", "last_edite": "MDAVIS", "last_edi_1": "2016/03/31", "PhoneNum": null
+    }
+    ,
+    "geometry": {
+      "type": "Point", "coordinates": [-79.95646154002357, 43.064525980379884]
+    }
+  }
+  ]
+}
